@@ -1,10 +1,11 @@
-# Simple calculator web app
+# Simple calculator web app ([Live](https://anoop-rajoriya.github.io/simple-calculator-ar2t190525/))
 
 ## Description
 
 A simple calculator builded using html, css and javascript. use localstorage to handle dark/light theme switching and operation history.
 
 ## Features
+
 - Can Allow to perform all basic mathmatical operation.
 - Interactive Ui with dark/light theme.
 - Used web localstorage api for persistant data.
