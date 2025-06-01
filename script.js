@@ -34,7 +34,7 @@ const calcHistoryDeleteButton = document.querySelector(".calc-delete-history");
 function storeCalcInfo() {
   const { calcHistory: localHistory } = JSON.parse(
     localStorage.getItem(calcKey)
-  );
+  ) || { calcHistory: null };
   const data = {
     isDark: document.body.classList.contains("theme-dark"),
     calcHistory: localHistory || [],
