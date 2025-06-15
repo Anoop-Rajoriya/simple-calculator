@@ -1,4 +1,4 @@
-# Simple calculator web app ([Live](https://anoop-rajoriya.github.io/simple-calculator-ar2t190525/))
+# Simple calculator web app ([Live](https://anoop-rajoriya.github.io/simple-calculator/))
 
 ## Description
 
